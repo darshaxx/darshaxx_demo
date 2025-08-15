@@ -1,2 +1,3 @@
 # darshaxx_demo
-This is my first git repository
+This is my First Git Repository.
+Author - Darshan Karamchandani
